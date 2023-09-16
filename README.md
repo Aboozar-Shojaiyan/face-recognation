@@ -30,8 +30,7 @@ At first select your method to process images and upload your file
 
 check the result of normal and multi thread methods
 
-https://github.com/reyhaneakbari/face-recognation/issues/3#issue-1899326367
-"https://github.com/reyhaneakbari/face-recognation/issues/4#issue-1899327001
+![Article](https://github.com/reyhaneakbari/face-recognation/assets/141564009/e5623366-33ee-401d-ad4a-1355553e3d06)
 
 ### About
 
