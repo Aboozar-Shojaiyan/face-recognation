@@ -42,4 +42,6 @@ finally check all images
 This article created by Fatemeh Akbari , Aboozar Shojaiyan Bachelor's student in computer engineering & Tahereh Abbasi Professor at Shiraz and Larestan University.
 
 
-"https://github.com/reyhaneakbari/face-recognation/issues/5#issue-1899327246
+
+![about](https://github.com/reyhaneakbari/face-recognation/assets/141564009/b3d12727-4a2d-448b-be27-d63af2861e02)
+
