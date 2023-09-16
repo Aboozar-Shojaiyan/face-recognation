@@ -14,7 +14,7 @@ open [our streamlit](https://face-recognition.streamlit-app.ir/) and check yorse
 Open streamlite and read the importance of facial face recognation system:
 
 
-https://github.com/reyhaneakbari/face-recognation/issues/1#issue-1899325122
+![home](https://github.com/reyhaneakbari/face-recognation/assets/141564009/183deea3-eba3-4b7e-bb64-024604e1626a)
 
 ## App
 
