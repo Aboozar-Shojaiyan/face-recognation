@@ -43,5 +43,5 @@ This article created by Fatemeh Akbari , Aboozar Shojaiyan Bachelor's student in
 
 
 
-![about](https://github.com/reyhaneakbari/face-recognation/assets/141564009/b3d12727-4a2d-448b-be27-d63af2861e02)
+![about](https://github.com/reyhaneakbari/face-recognation/assets/141564009/2e36be3d-7b45-4675-93e6-98c2e378232d)
 
