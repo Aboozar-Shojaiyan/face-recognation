@@ -22,7 +22,8 @@ Open streamlite and read the importance of facial face recognation system:
 
 At first select your method to process images and upload your file
 
-https://github.com/reyhaneakbari/face-recognation/issues/2#issue-1899326149
+![dlib](https://github.com/reyhaneakbari/face-recognation/assets/141564009/6a4c9aca-1a70-4b37-ad42-152537eb8fe3)
+
 
 
 ### Article
