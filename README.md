@@ -32,8 +32,14 @@ check the result of normal and multi thread methods
 
 ![Article](https://github.com/reyhaneakbari/face-recognation/assets/141564009/e5623366-33ee-401d-ad4a-1355553e3d06)
 
+finally check all images 
+
+![result](https://github.com/reyhaneakbari/face-recognation/assets/141564009/721e1fd0-c8bc-450a-9794-3ac447df46ca)
+
+
 ### About
 
 This article created by Fatemeh Akbari , Aboozar Shojaiyan Bachelor's student in computer engineering & Tahereh Abbasi Professor at Shiraz and Larestan University.
+
 
 "https://github.com/reyhaneakbari/face-recognation/issues/5#issue-1899327246
