@@ -14,8 +14,7 @@ open [our streamlit](https://face-recognition.streamlit-app.ir/) and check yorse
 Open streamlite and read the importance of facial face recognation system:
 
 
-<img src="https://github.com/reyhaneakbari/face-recognation/issues/1#issue-1899325122" alt="Streamlit Home" width=500 href="none"></img>
-
+https://github.com/reyhaneakbari/face-recognation/issues/1#issue-1899325122
 
 ## App
 
@@ -23,20 +22,18 @@ Open streamlite and read the importance of facial face recognation system:
 
 At first select your method to process images and upload your file
 
-<img src="https://github.com/reyhaneakbari/face-recognation/issues/2#issue-1899326149" width=300 alt="dlib"></img>
-
+https://github.com/reyhaneakbari/face-recognation/issues/2#issue-1899326149
 
 
 ### Article
 
 check the result of normal and multi thread methods
 
-<img src="https://github.com/reyhaneakbari/face-recognation/issues/3#issue-1899326367"  alt="Article"></img>
-<img src="https://github.com/reyhaneakbari/face-recognation/issues/4#issue-1899327001"   alt="result"></img>
-
+https://github.com/reyhaneakbari/face-recognation/issues/3#issue-1899326367
+"https://github.com/reyhaneakbari/face-recognation/issues/4#issue-1899327001
 
 ### About
 
 This article created by Fatemeh Akbari , Aboozar Shojaiyan Bachelor's student in computer engineering & Tahereh Abbasi Professor at Shiraz and Larestan University.
 
-<img src="https://github.com/reyhaneakbari/face-recognation/issues/5#issue-1899327246"  alt="about"></img>
+"https://github.com/reyhaneakbari/face-recognation/issues/5#issue-1899327246
