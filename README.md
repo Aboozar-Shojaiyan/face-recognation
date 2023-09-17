@@ -25,6 +25,10 @@ At first select your method to process images and upload your file
 ![dlib](https://github.com/reyhaneakbari/face-recognation/assets/141564009/6a4c9aca-1a70-4b37-ad42-152537eb8fe3)
 
 
+finally check all images 
+
+![result](https://github.com/reyhaneakbari/face-recognation/assets/141564009/721e1fd0-c8bc-450a-9794-3ac447df46ca)
+
 
 ### Article
 
@@ -32,9 +36,6 @@ check the result of normal and multi thread methods
 
 ![Article](https://github.com/reyhaneakbari/face-recognation/assets/141564009/e5623366-33ee-401d-ad4a-1355553e3d06)
 
-finally check all images 
-
-![result](https://github.com/reyhaneakbari/face-recognation/assets/141564009/721e1fd0-c8bc-450a-9794-3ac447df46ca)
 
 
 ### About
